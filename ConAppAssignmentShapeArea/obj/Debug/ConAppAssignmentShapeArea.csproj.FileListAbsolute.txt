@@ -1,0 +1,2 @@
+C:\DOT NET\Day 14\ConAppAssignmentShapeArea\ConAppAssignmentShapeArea\obj\Debug\ConAppAssignmentShapeArea.csproj.AssemblyReference.cache
+C:\DOT NET\Day 14\ConAppAssignmentShapeArea\ConAppAssignmentShapeArea\obj\Debug\ConAppAssignmentShapeArea.csproj.CoreCompileInputs.cache
